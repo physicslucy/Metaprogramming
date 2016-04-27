@@ -1,6 +1,9 @@
 # Metaprogramming
 Material for Metaprogramming Workshop, 28/04/2016
 
+## Comment
+Metaprogramming is the process of writing code which manipulates existing code, such as functions or classes. It is a simple technique which can eliminate code repetition without introducing inheritance classes or multiple similar functions. 
+
 ## Prepare for the Session: 
 
 ### Install Python and Jupyter
