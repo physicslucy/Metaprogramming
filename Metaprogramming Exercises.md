@@ -22,6 +22,8 @@ Remove the @wraps line from your decorator definition
 
 Re-run the function definitons with decorators again
 
+Reprnt the metadata for your decorated functions
+
 ###7
 Undo the decorator function from the functions
 
